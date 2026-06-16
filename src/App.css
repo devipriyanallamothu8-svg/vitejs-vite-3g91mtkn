@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #2563eb;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #555;
+}
+
+section {
+  background: white;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+ul li {
+  margin: 8px 0;
+}
